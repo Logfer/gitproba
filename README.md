@@ -1,2 +1,3 @@
 # gitproba 
 # gépről írtam
+# konfliktus
